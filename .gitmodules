@@ -1,0 +1,6 @@
+[submodule "donkey-frontend-base"]
+	path = donkey-frontend-base
+	url = https://github.com/diMosella/donkey-frontend-base.git
+[submodule "base"]
+	path = base
+	url = https://github.com/diMosella/donkey-frontend-base.git
