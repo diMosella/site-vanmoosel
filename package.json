@@ -1,0 +1,19 @@
+{
+  "name": "site-vanmoosel",
+  "version": "0.0.1",
+  "description": "Frontend code base for vanmoosel",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diMosella/site-vanmoosel.git"
+  },
+  "author": "diMosella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diMosella/site-vanmoosel/issues"
+  },
+  "homepage": "https://github.com/diMosella/site-vanmoosel#readme"
+}
